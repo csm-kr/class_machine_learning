@@ -12,3 +12,5 @@ this class is as a flipped learning.
 - second assignment is to make a code of linear regeression and its plots.
 
 - 3rd assignment is to visualize Gradient Descent algorithm based on linear regression problem.
+
+- 4th assignment is linear regression for multi-variables and its gradient descent algorithm
